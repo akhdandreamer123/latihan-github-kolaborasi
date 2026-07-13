@@ -1,1 +1,2 @@
 Simulasi pengerjaan script navigasi robot
+Cara menjalankan: jalankan perintah 'ros2 launch nav2_bringup' di terminal.
